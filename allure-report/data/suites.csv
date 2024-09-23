@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2979","Verify Applocation Title Using Loop","chromium","Mon Sep 23 09:12:30 BDT 2024","passed","Mon Sep 23 09:12:33 BDT 2024","","handleautosuggestions.spec.js","",""
