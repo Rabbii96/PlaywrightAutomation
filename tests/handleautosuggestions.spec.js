@@ -26,7 +26,7 @@ test("Handle Autosuggestion in Playwright keyboard", async ({ page }) => {
 
 });
 
-test.only("Verify Applocation Title Using Loop", async ({ page }) => {
+test("Verify Applocation Title Using Loop", async ({ page }) => {
    
    await page.goto('https://www.google.com');
 
